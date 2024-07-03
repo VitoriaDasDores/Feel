@@ -12,6 +12,6 @@
 - **React Native:** Permite construir aplicativos nativos para Android e iOS usando JavaScript.
 - **NativeWind:** Framework CSS para React Native que facilita a criação de layouts responsivos e visuais atraentes.
 - **Expo:** Plataforma poderosa para o desenvolvimento de aplicativos móveis,  facilitando o processo de criação e distribuição.
-- **JavaScript:** A linguagem de programação por trás do Feel,  conhecida por sua versatilidade e comunidade vibrante.
+- **Typescript:** A linguagem de programação por trás do Feel,  conhecida por sua versatilidade e comunidade vibrante.
 
 
